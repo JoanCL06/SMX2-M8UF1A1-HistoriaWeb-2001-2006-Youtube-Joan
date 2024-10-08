@@ -3,9 +3,9 @@
 ![Los Tres Creadores]()
 - Fue creado por tres exempleados de PayPal, **Chad Hurley**, **Steven Chen**, **Jawed Karim**
 tuvieron la idea de lanzar una plataforma para subir videos a internet, obtuvieron el 
-dominio en 2005.
+dominio en *2005*.
 
 ## YouTube
 ![Logo Youtube]()
 - En su inicio sus capacidades eran limitadas y algunos problemas, pero con el paso del tiempo fue
-convirtiendose en la web popular de compartir videos
+convirtiéndose en la web popular de compartir videos hoy en dia
